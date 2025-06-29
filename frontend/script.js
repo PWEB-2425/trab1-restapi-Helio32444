@@ -6,6 +6,7 @@ const APIURL = "http://localhost:3001/api/alunos";
 
 // API hospedada (Render.com)
 //const APIURL = "https://apis-a0du.onrender.com/api/alunos"; // URL do backend
+//const APIURL = "https://trab1-restapi-helio32444.onrender.com/api/alunos"; // URL do backend
 
 async function mostraNomes() {
   const tabela = document.getElementById("mytable");
