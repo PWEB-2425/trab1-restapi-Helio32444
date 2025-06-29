@@ -1,0 +1,46 @@
+{
+  "alunos": [
+    {
+      "id": "6bdf",
+      "nome": "Tailine",
+      "apelido": "má",
+      "curso": "3",
+      "anoCurricular": "2023-24"
+    },
+    {
+      "nome": "Luís",
+      "apelido": "York",
+      "curso": "3",
+      "anoCurricular": "2022-23",
+      "id": "d979"
+    },
+    {
+      "id": "91d8",
+      "nome": "Flávio",
+      "apelido": "Macario",
+      "curso": "2",
+      "anoCurricular": "2026-27"
+    },
+    {
+      "id": "0551",
+      "nome": "Hélio",
+      "apelido": "Brito",
+      "curso": "3",
+      "anoCurricular": "2024-25"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "1",
+      "nomeDoCurso": "Engenharia de redes e sistemas de computadores"
+    },
+    {
+      "id": "2",
+      "nomeDoCurso": "Engenharia de multimedia e computação gráfica"
+    },
+    {
+      "id": "3",
+      "nomeDoCurso": "Engenharia de informatica"
+    }
+  ]
+}
